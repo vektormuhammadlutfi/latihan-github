@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>buat login</title>
+	<title>Login Twitter</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 </head>
 <style>
